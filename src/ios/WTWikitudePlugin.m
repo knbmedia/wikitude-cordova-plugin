@@ -290,7 +290,7 @@ NSString * const kWTWikitudePlugin_localPathPrefix                  = @"WTCordov
         {
             NSDictionary *arguments = (NSDictionary *)argumentDictionary;
 
-            NSString *sdkKey = [arguments objectForKey:kWTWikitudePlugin_ArgumentKeyLicenseKey];
+            NSString *sdkKey = @"ZX310FwjDbqHzeBq7y8N0jDWNVuRTSu3CIOcH5VTVZt+GTP6dCeN4x62KgcrXw6OaXQJ5k5tDgyzaIYpxlwTkIyplCHzOvUDn1L08I0vKp6d65itwDA05Z7Qehg7tA6RcP2uxboBEGORU5AXd57CUjY5sHjI7YCeLPcTokehN/RTYWx0ZWRfXxh3Vbu1K4Zhhh8axqhOkRYnjeCKIwRNFFjdyccyUcQDvqhsFQs2h64Klp8IYv1yFIK0WAmttea5nIMPZ9udVS41HyPC+Z+Ibo6El9LLU9zad/C8tS9fAML1gn+GvVxqMdnbJg2mSs8VbDvQg0kFwaEt7EeTrmO3rNUTBUrjh4e3kCMWPj5tpjM2fXLApCD8/5RxT1vDMj5eyQwkyLmuq1yPH89d83dSuR4IcIC7XzR1EQraOG8FfKd4A2QetsIdLsBEfNHkTxiEzsjjBsiEslWpl/rn+xo3fobsWhDXm3ibHnXDFcunByvqb3rWEvyqShtnP2Nm4vh8LZpXTUVS9kiQJp89OsOR92A4PNqXMsH5S2DtfJEQ/P9G5cFPVz7KrzH18RWBUBjTgBT++tsiIindnuczc2MBAt5fSOv+ulCcibld7Wsq+L2O0AnnVC2L5d071mhk8rBMYrYbQaN5jhukiU2xqQElh133SH7DlYe2GvIcnpJRwn4=";
             NSString *architectWorldURLString = [arguments objectForKey:kWTWikitudePlugin_ArgumentKeyARchitectWorldURL];
 
 
